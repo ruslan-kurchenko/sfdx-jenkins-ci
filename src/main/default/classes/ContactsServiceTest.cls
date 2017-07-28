@@ -6,4 +6,9 @@ private class ContactsServiceTest {
         System.assert(false);
     }
 
+    @IsTest
+    static void anotherTest() {
+        System.debug('\n\n Heeeey! \n');
+    }
+
 }
