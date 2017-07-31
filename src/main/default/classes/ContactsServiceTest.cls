@@ -6,4 +6,10 @@ private class ContactsServiceTest {
         System.assert(true);
     }
 
+
+    @IsTest
+    static void customFailedTest() {
+        System.assert(false);
+    }
+
 }
