@@ -2,3 +2,4 @@ IlluminatedCloud
 .idea
 sfdx-jenkins-ci.iml
 .gitignore
+.sfdx
